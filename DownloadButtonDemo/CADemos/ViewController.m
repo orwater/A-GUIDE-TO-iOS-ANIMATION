@@ -25,7 +25,7 @@
     //添加了一行注释 15-11-15
 
     self.downloadButton.progressBarWidth  = 200;
-    self.downloadButton.progressBarHeight = 30;
+    self.downloadButton.progressBarHeight = 50;
 }
 
 
