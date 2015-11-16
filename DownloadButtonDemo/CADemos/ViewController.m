@@ -23,6 +23,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     //添加了一行注释 15-11-15
+    //又添加了一行注释 15-11-16
 
     self.downloadButton.progressBarWidth  = 200;
     self.downloadButton.progressBarHeight = 50;
